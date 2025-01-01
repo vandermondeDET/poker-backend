@@ -12,8 +12,8 @@
 ## 部署方法
 
 ### 前提
-- 安装node。js，拥有npm
-- 安装yarn。`npm install -g yarn`
+- 安装node。js，拥有npm.(use official ways in official website)
+- 安装yarn。`npm install -g yarn`. 
 - npm换源
 ```
     // 查询源
